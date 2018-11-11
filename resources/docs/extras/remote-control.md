@@ -1,6 +1,6 @@
 # Remote control
 
-All widgets that send osc messages respond to the same messages. Additionnaly, Open Stage Control responds to some general osc commands.
+All widgets that send osc messages respond to the same messages. Additionally, Open Stage Control responds to some general osc commands.
 
 
 ## `/EDIT id options`
